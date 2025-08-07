@@ -1,0 +1,6 @@
+[submodule "estudantes-codigo"]
+	path = estudantes-codigo
+	url = https://github.com/danielrdg/estudantes-codigo
+[submodule "colecao-generico-codigo"]
+	path = colecao-generico-codigo
+	url = https://github.com/danielrdg/colecao-generico-codigo
